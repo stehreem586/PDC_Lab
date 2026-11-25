@@ -3,8 +3,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello from Jenkins Master!");
 
-        int a = 200;
-        int b = 100;
+        int a = 600;
+        int b = 500;
 
         int sum = a + b;
 
