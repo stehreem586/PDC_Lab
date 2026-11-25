@@ -2,7 +2,7 @@ public class helloworld {
     public static void main(String[] args) {
         System.out.println("Hello from Jenkins Master!");
 
-        int a = 600;
+        int a = 400;
         int b = 400;
 
         int sum = a + b;
